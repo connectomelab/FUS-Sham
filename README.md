@@ -7,4 +7,3 @@ We used a Matlab script to generate a .wav file with pulses of a 20 kHz tone (si
 
 **#ultrasound_sham.wav**: example output of the routine above. 
 
-**#ultrasound_tukey.m**: Matlab file generating ramped pulses with the parameter of ramp duration indicating the duration of the ramping-up phase at the beginning and the ramping-down phase at the end of a pulse.
